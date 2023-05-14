@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Быстрое сравнение</string>
+    <string name="app_name">Сравнение на реакцию</string>
     <string name="remember_this_image">Запомните эту картинку</string>
     <string name="image">Картинка</string>
     <string name="start_game">Начать игру</string>

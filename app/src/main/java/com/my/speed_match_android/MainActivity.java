@@ -10,8 +10,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.my.mw_speed_match.R;
-
 public class MainActivity extends AppCompatActivity {
 
     private static final int PREVIEW_IMAGE_ACTIVITY_REQUEST_CODE = 1;

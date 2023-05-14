@@ -14,8 +14,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.my.mw_speed_match.R;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

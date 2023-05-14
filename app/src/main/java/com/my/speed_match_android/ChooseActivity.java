@@ -9,8 +9,6 @@ import android.util.Log;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import com.my.mw_speed_match.R;
-
 import java.util.ArrayList;
 import java.util.Random;
 
